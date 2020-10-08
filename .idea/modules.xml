@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Record_Application_Coderbyte.iml" filepath="$PROJECT_DIR$/.idea/modules/Record_Application_Coderbyte.iml" group="Record_Application_Coderbyte" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Record Application Coderbyte/app" />
+    </modules>
+  </component>
+</project>
