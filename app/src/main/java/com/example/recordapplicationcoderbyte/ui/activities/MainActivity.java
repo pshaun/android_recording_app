@@ -25,7 +25,7 @@ import static android.content.ContentValues.TAG;
 public class MainActivity extends AppCompatActivity {
 
     // tab titles
-    private String[] titles = new String[]{"Record", "Saved Recording"};
+    private String[] titles = new String[]{"Record", "Saved Recordings"};
     ViewPager2 viewPager;
     TabLayout tabLayout;
     public static final int REQUEST_ID_MULTIPLE_PERMISSIONS = 1;
